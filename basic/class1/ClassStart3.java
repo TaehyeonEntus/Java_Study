@@ -18,7 +18,7 @@ public class ClassStart3 {
         students[0] = student1;
         students[1] = student2;
 
-        for (int i = 0; i< students.length; i++) {
+        for(int i = 0; i< students.length; i++) {
             System.out.println("이름:" + students[i].name + " 나이:" + students[i].age + " 성적:" + students[i].grade);
         }
         System.out.println("이름:" + student1.name + " 나이:" + student1.age + " 성적:" + student1.grade);
