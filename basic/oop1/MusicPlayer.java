@@ -1,7 +1,5 @@
 package oop1;
 
-import oop1.MusicPlayerData;
-
 public class MusicPlayer {
     int volume = 0;
     boolean isOn = false;
