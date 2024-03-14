@@ -1,4 +1,4 @@
-package poly.car0.basic;
+package poly.basic;
 
 public class Child extends Parent{
     public void childMethod(){
